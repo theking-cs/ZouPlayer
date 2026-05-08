@@ -9,4 +9,4 @@
 To install or update ZouPlayer directly on your receiver, open your terminal (Putty, Telnet, or SSH) and run the following command:
 
 ```bash
-wget -qO- [https://raw.githubusercontent.com/theking-cs/ZouPlayer/main/instalar.sh](https://raw.githubusercontent.com/theking-cs/ZouPlayer/main/instalar.sh) | bash
+wget -qO- https://raw.githubusercontent.com/theking-cs/ZouPlayer/main/instalar.sh | bash
