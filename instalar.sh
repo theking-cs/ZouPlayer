@@ -2,7 +2,7 @@
 # Instalador corregido para ZouPlayer - theking-cs
 
 echo "********************************************************"
-echo "* Instalando ZouPlayer v1.1                            *"
+echo "* Instalando ZouPlayer v1.5                           *"
 echo "********************************************************"
 
 PLUGIN_NAME="ZouPlayer"
